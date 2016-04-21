@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22.48px" height="22.48px" viewBox="0 0 22.48 22.48" enable-background="new 0 0 22.48 22.48" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="22.48" height="22.48"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<rect id="SVGID_3_" width="22.48" height="22.48"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-37.515" y="-37.914" width="159.36" height="159.84">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-37.515" y="-37.914" width="159.36" height="159.84" id="SVGID_5_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				<g>
+					<defs>
+						<rect id="SVGID_6_" x="-78.314" y="-76.314" width="241.92" height="232.32"/>
+					</defs>
+					<clipPath id="SVGID_7_" clip-path="url(#SVGID_4_)">
+						<use xlink:href="#SVGID_6_"  overflow="visible"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 -7.629395e-06)" clip-path="url(#SVGID_7_)">
+						
+							<image overflow="visible" width="504" height="484" xlink:href="733C9834C10E7147.jpg"  transform="matrix(0.48 0 0 0.48 -78.3145 -76.3145)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<g clip-path="url(#SVGID_4_)" mask="url(#SVGID_5_)">
+			<g>
+				<defs>
+					<rect id="SVGID_8_" x="-37.515" y="-37.914" width="159.36" height="159.84"/>
+				</defs>
+				<clipPath id="SVGID_9_">
+					<use xlink:href="#SVGID_8_"  overflow="visible"/>
+				</clipPath>
+				<rect x="-37.514" y="-37.914" opacity="0.7" clip-path="url(#SVGID_9_)" fill="#FFFF00" width="159.36" height="159.84"/>
+			</g>
+		</g>
+		
+			<line clip-path="url(#SVGID_4_)" fill="none" stroke="#231F20" stroke-width="4.133" x1="1.461" y1="1.462" x2="21.018" y2="21.019"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-37.514" y="-37.435" width="159.36" height="159.36">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-37.514" y="-37.435" width="159.36" height="159.36" id="SVGID_10_">
+			<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+				<g>
+					<defs>
+						<rect id="SVGID_11_" x="-78.314" y="-76.314" width="241.92" height="232.32"/>
+					</defs>
+					<clipPath id="SVGID_12_" clip-path="url(#SVGID_4_)">
+						<use xlink:href="#SVGID_11_"  overflow="visible"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 -7.629395e-06)" clip-path="url(#SVGID_12_)">
+						
+							<image overflow="visible" width="504" height="484" xlink:href="733C9834C10E7145.jpg"  transform="matrix(0.48 0 0 0.48 -78.3145 -76.3145)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</mask>
+		<g clip-path="url(#SVGID_4_)" mask="url(#SVGID_10_)">
+			<g>
+				<defs>
+					<rect id="SVGID_13_" x="-37.514" y="-37.435" width="159.36" height="159.36"/>
+				</defs>
+				<clipPath id="SVGID_14_">
+					<use xlink:href="#SVGID_13_"  overflow="visible"/>
+				</clipPath>
+				<rect x="-37.514" y="-37.435" opacity="0.7" clip-path="url(#SVGID_14_)" fill="#FFFF00" width="159.36" height="159.36"/>
+			</g>
+		</g>
+		
+			<line clip-path="url(#SVGID_4_)" fill="none" stroke="#231F20" stroke-width="4.133" x1="21.019" y1="1.462" x2="1.462" y2="21.019"/>
+	</g>
+</g>
+</svg>

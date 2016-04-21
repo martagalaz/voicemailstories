@@ -1,0 +1,26 @@
+<template name="images">
+
+	<div id="imageContainer">
+		{{#if show_overlay}}
+			<div id="overlay"></div>
+		{{/if}}
+		<!--<span> images: {{ visibleCounts }} visibles / {{ totalCounts }} total</span> -->
+		{{#each images}}
+		<div {{ attributes . @index }}>
+			<!-- <img class="closeImage" src="/assets/close.svg" alt="close"> -->
+			<div>
+				<div class="audioName">by<br>{{title}}</div>
+				{{#if playing}}
+					<div class="player">
+						<audio autoplay>
+						  <source src="{{url}}" type="audio/mpeg">
+						Your browser does not support the audio element.
+						</audio>
+					</div>
+				{{/if}}
+			</div>
+		</div>
+		{{/each}}
+	</div>
+	
+</template>
